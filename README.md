@@ -1,5 +1,5 @@
-# FAER_ACTIVIDAD_07_REACT
-Actividad 07 de la clase de Programación para Internet (Sección D03)
+# FAER_ACTIVIDAD_06_REACT
+Actividad 06 de la clase de Programación para Internet (Sección D03)
 
 Para este proyecto no se hizo ninguna instalación de forma local en el proyecto, se uso solo CDN.
 
